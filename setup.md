@@ -18,7 +18,7 @@ brew install python (if you want to install via homebrew) Metta uses Python 2.7 
 sudo easy_install pip
 ```
 
-Set up a virtual python enviroment in the repo folder
+Set up a virtual python environment in the repo folder
 ref: http://docs.python-guide.org/en/latest/dev/virtualenvs/
 ```
 pip install --user pipenv
